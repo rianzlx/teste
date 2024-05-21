@@ -38,7 +38,7 @@
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #0E46A3;
+    background: #0F6292;
   }
   
   .container {
@@ -178,4 +178,16 @@
 }
 .image-item:hover { 
     transform: scale(1.1); 
+}
+
+
+.section{
+  height:100vh;
+  display :flex;
+  align-items: center;
+  justify-content: center;
+  color: aliceblue;
+}
+.secao2{
+  background-color: red;
 }
