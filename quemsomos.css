@@ -36,6 +36,7 @@ a {
     position: fixed;
     background-color: #000;
     min-height: 5rem;
+    width: 100%;
     padding: 0 2rem;
     display: flex;
     justify-content: space-between;
@@ -101,7 +102,7 @@ a {
 }
 
 .nos {
-    background-color: #0F6292;
+    background-color: #76453B;
     height: 100%;
     width: 100%;
     display: grid;
@@ -115,56 +116,26 @@ a {
     padding-top: 3.7rem;
 }
 
-.walter {
-    margin-top: 100px;
-    width: 25rem;
-    height: 30rem;
-    background-color: black;
-    border-radius: 30px;
-    padding: 20px;
-    color: white;
-}
 
-.joao {
-    margin-top: 100px;
-    width: 25rem;
-    height: 30rem;
-    background-color: black;
-    border-radius: 30px;
-    padding: 20px;
-    color: white;
-}
 
-.rian {
-    margin-top: 100px;
-    width: 25rem;
-    height: 30rem;
-    background-color: black;
-    border-radius: 30px;
-    padding: 20px;
-    color: white;
-}
 
 .foto1 {
-    background-image: url("w.jpeg");
+
     background-size: cover;
-    height: 300px;
-    width: 300px;
-    margin-top: 30px;
+    height: 50%;
+    width: 100%;
+    margin-top: 100px;
+    margin-left: 130%;
 }
 
-.foto2 {
-    background-image: url("j.jpg");
+
+
+.foto4{
     background-size: cover;
-    height: 300px;
-    width: 300px;
-    margin-top: 30px;
+    height: 50%;
+    width: 100%;
+    margin-top: 100px;
+    margin-left: -50%;
+
 }
 
-.foto3 {
-    background-image: url("r.jpg");
-    background-size: cover;
-    height: 300px;
-    width: 300px;
-    margin-top: 30px;
-}
